@@ -1,0 +1,2302 @@
+Started GET "/" for ::1 at 2024-05-08 14:06:46 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 442)
+  Rendered layout layouts/application.html.erb (Duration: 109.9ms | Allocations: 88057)
+Completed 200 OK in 140ms (Views: 113.0ms | ActiveRecord: 0.0ms | Allocations: 94718)
+
+
+Started GET "/" for ::1 at 2024-05-08 14:13:19 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 334)
+  Rendered layout layouts/application.html.erb (Duration: 2400.6ms | Allocations: 139877)
+Completed 200 OK in 2420ms (Views: 2401.9ms | ActiveRecord: 0.0ms | Allocations: 144030)
+
+
+Started GET "/_/a0ba12d2.js" for ::1 at 2024-05-08 14:13:21 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/assets/modifiers/index.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/_/a0ba12d2.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/enums.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/popper-lite.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/modifiers/applyStyles.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/modifiers/arrow.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/modifiers/computeStyles.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/modifiers/eventListeners.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/modifiers/flip.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/modifiers/hide.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/modifiers/offset.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/modifiers/popperOffsets.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/modifiers/preventOverflow.js"):
+  
+Started GET "/_/7a91f8b9.js" for ::1 at 2024-05-08 14:13:21 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getCompositeRect.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/_/7a91f8b9.js"):
+  
+Started GET "/_/7742d4ca.js" for ::1 at 2024-05-08 14:13:22 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/instanceOf.js"):
+  
+Started GET "/_/b8df2d1e.js" for ::1 at 2024-05-08 14:13:22 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getWindow.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/_/7742d4ca.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/_/b8df2d1e.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getNodeScroll.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/utils/detectOverflow.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getHTMLElementScroll.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getNodeName.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getWindowScrollBarX.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getDocumentElement.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/isScrollParent.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getComputedStyle.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getLayoutRect.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/listScrollParents.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getScrollParent.js"):
+  
+Started GET "/_/084d303b.js" for ::1 at 2024-05-08 14:13:22 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getParentNode.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getOffsetParent.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/_/084d303b.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getViewportRect.js"):
+  
+Started GET "/_/a9ca29ce.js" for ::1 at 2024-05-08 14:13:22 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getDocumentRect.js"):
+  
+Started GET "/_/bb24ce41.js" for ::1 at 2024-05-08 14:13:22 +0200
+Started GET "/_/2d19854a.js" for ::1 at 2024-05-08 14:13:22 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/_/a9ca29ce.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/_/bb24ce41.js"):
+  
+Started GET "/_/c7d11060.js" for ::1 at 2024-05-08 14:13:22 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/_/2d19854a.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/_/c7d11060.js"):
+  
+Started GET "/_/1ba79728.js" for ::1 at 2024-05-08 14:13:22 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/assets/utils/getMainAxisFromPlacement.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/_/1ba79728.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getWindowScroll.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/utils/getOppositePlacement.js"):
+  
+Started GET "/_/6a201025.js" for ::1 at 2024-05-08 14:13:22 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/assets/utils/getOppositeVariationPlacement.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/_/6a201025.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/utils/computeAutoPlacement.js"):
+  
+Started GET "/" for ::1 at 2024-05-08 14:15:08 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 123)
+  Rendered layout layouts/application.html.erb (Duration: 4.4ms | Allocations: 6397)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 7330)
+
+
+Started GET "/_/a0ba12d2.js" for ::1 at 2024-05-08 14:15:08 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/assets/modifiers/index.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/enums.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/_/a0ba12d2.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/utils/detectOverflow.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/popper-lite.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/modifiers/arrow.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/modifiers/computeStyles.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/modifiers/eventListeners.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/modifiers/flip.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/modifiers/hide.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/modifiers/offset.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/modifiers/popperOffsets.js"):
+  
+Started GET "/_/7a91f8b9.js" for ::1 at 2024-05-08 14:15:08 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/assets/modifiers/preventOverflow.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getCompositeRect.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/_/7a91f8b9.js"):
+  
+Started GET "/_/7742d4ca.js" for ::1 at 2024-05-08 14:15:09 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/instanceOf.js"):
+  
+Started GET "/_/b8df2d1e.js" for ::1 at 2024-05-08 14:15:09 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getWindow.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/_/7742d4ca.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/_/b8df2d1e.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getNodeScroll.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getWindowScroll.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getNodeName.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getHTMLElementScroll.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getWindowScrollBarX.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getDocumentElement.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/isScrollParent.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getComputedStyle.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getLayoutRect.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/listScrollParents.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/modifiers/applyStyles.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getParentNode.js"):
+  
+Started GET "/_/084d303b.js" for ::1 at 2024-05-08 14:15:09 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getOffsetParent.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/_/084d303b.js"):
+  
+Started GET "/_/a9ca29ce.js" for ::1 at 2024-05-08 14:15:09 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getViewportRect.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getDocumentRect.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/_/a9ca29ce.js"):
+  
+Started GET "/_/bb24ce41.js" for ::1 at 2024-05-08 14:15:09 +0200
+Started GET "/_/2d19854a.js" for ::1 at 2024-05-08 14:15:09 +0200
+Started GET "/_/c7d11060.js" for ::1 at 2024-05-08 14:15:09 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/_/bb24ce41.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/_/2d19854a.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/_/c7d11060.js"):
+  
+Started GET "/_/1ba79728.js" for ::1 at 2024-05-08 14:15:09 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/assets/utils/getMainAxisFromPlacement.js"):
+  
+Started GET "/_/6a201025.js" for ::1 at 2024-05-08 14:15:09 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/_/1ba79728.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/_/6a201025.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/utils/getOppositePlacement.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/utils/getOppositeVariationPlacement.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/utils/computeAutoPlacement.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/dom-utils/getScrollParent.js"):
+  
+Started GET "/" for ::1 at 2024-05-08 14:24:19 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 334)
+  Rendered layout layouts/application.html.erb (Duration: 57.9ms | Allocations: 58211)
+Completed 500 Internal Server Error in 77ms (ActiveRecord: 0.0ms | Allocations: 62318)
+
+
+  
+ActionView::Template::Error (Asset `bootstrap.min.js` was not declared to be precompiled in production.
+Declare links to your assets in `app/assets/config/manifest.js`.
+
+  //= link bootstrap.min.js
+
+and restart your server):
+     7:     <%= csp_meta_tag %>
+     8: 
+     9:     <%= stylesheet_link_tag "application", "data-turbo-track": "reload" %>
+    10:     <%= javascript_importmap_tags %>
+    11:   </head>
+    12: 
+    13:   <body>
+  
+app/views/layouts/application.html.erb:10
+Started GET "/" for ::1 at 2024-05-08 14:24:45 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 12)
+Importmap skipped missing path: unpkg:bootstrap@5.3.3.js
+Importmap skipped missing path: @popperjs--core.min.js
+Importmap skipped missing path: unpkg:bootstrap@5.3.3.js
+Importmap skipped missing path: @popperjs--core.min.js
+  Rendered layout layouts/application.html.erb (Duration: 11.8ms | Allocations: 26091)
+Completed 200 OK in 13ms (Views: 12.3ms | ActiveRecord: 0.0ms | Allocations: 26775)
+
+
+Started GET "/" for ::1 at 2024-05-08 14:27:08 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 12)
+Importmap skipped missing path: unpkg:bootstrap@5.3.3.js
+Importmap skipped missing path: @popperjs--core.min.js
+Importmap skipped missing path: unpkg:bootstrap@5.3.3.js
+Importmap skipped missing path: @popperjs--core.min.js
+  Rendered layout layouts/application.html.erb (Duration: 11.9ms | Allocations: 28255)
+Completed 200 OK in 13ms (Views: 12.3ms | ActiveRecord: 0.0ms | Allocations: 28905)
+
+
+Started GET "/" for ::1 at 2024-05-08 14:27:29 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 334)
+  Rendered layout layouts/application.html.erb (Duration: 33.0ms | Allocations: 46856)
+Completed 200 OK in 54ms (Views: 34.8ms | ActiveRecord: 0.0ms | Allocations: 51009)
+
+
+Started GET "/" for ::1 at 2024-05-08 14:27:31 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 9)
+  Rendered layout layouts/application.html.erb (Duration: 8.3ms | Allocations: 5880)
+Completed 200 OK in 10ms (Views: 9.0ms | ActiveRecord: 0.0ms | Allocations: 6213)
+
+
+Started GET "/" for ::1 at 2024-05-08 14:30:18 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 334)
+  Rendered layout layouts/application.html.erb (Duration: 33.4ms | Allocations: 44529)
+Completed 200 OK in 56ms (Views: 42.5ms | ActiveRecord: 0.0ms | Allocations: 48681)
+
+
+Started GET "/" for ::1 at 2024-05-08 14:34:53 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 334)
+  Rendered layout layouts/application.html.erb (Duration: 33.4ms | Allocations: 44386)
+Completed 200 OK in 57ms (Views: 43.3ms | ActiveRecord: 0.0ms | Allocations: 48538)
+
+
+Started GET "/" for ::1 at 2024-05-08 14:35:00 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 9)
+  Rendered layout layouts/application.html.erb (Duration: 9.1ms | Allocations: 5871)
+Completed 200 OK in 11ms (Views: 9.8ms | ActiveRecord: 0.0ms | Allocations: 6204)
+
+
+Started GET "/" for ::1 at 2024-05-08 14:47:22 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 334)
+  Rendered layout layouts/application.html.erb (Duration: 2422.4ms | Allocations: 145560)
+Completed 200 OK in 2441ms (Views: 2423.6ms | ActiveRecord: 0.0ms | Allocations: 149713)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:07:45 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 28.7ms | Allocations: 30155)
+  Rendered layout layouts/application.html.erb (Duration: 32.4ms | Allocations: 36162)
+Completed 200 OK in 34ms (Views: 33.3ms | ActiveRecord: 0.0ms | Allocations: 37139)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:09:14 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.9ms | Allocations: 962)
+  Rendered layout layouts/application.html.erb (Duration: 9.6ms | Allocations: 6957)
+Completed 200 OK in 13ms (Views: 11.6ms | ActiveRecord: 0.0ms | Allocations: 7902)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:09:16 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.4ms | Allocations: 619)
+  Rendered layout layouts/application.html.erb (Duration: 8.9ms | Allocations: 6271)
+Completed 200 OK in 11ms (Views: 9.5ms | ActiveRecord: 0.0ms | Allocations: 6566)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:11:13 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.4ms | Allocations: 962)
+  Rendered layout layouts/application.html.erb (Duration: 10.1ms | Allocations: 6952)
+Completed 200 OK in 14ms (Views: 12.2ms | ActiveRecord: 0.0ms | Allocations: 7871)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:11:59 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.5ms | Allocations: 962)
+  Rendered layout layouts/application.html.erb (Duration: 10.1ms | Allocations: 6967)
+Completed 200 OK in 14ms (Views: 12.6ms | ActiveRecord: 0.0ms | Allocations: 7906)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:13:24 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.6ms | Allocations: 962)
+  Rendered layout layouts/application.html.erb (Duration: 10.4ms | Allocations: 6934)
+Completed 200 OK in 14ms (Views: 12.8ms | ActiveRecord: 0.0ms | Allocations: 7873)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:14:33 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 21.3ms | Allocations: 30292)
+  Rendered layout layouts/application.html.erb (Duration: 24.8ms | Allocations: 36278)
+Completed 200 OK in 26ms (Views: 25.5ms | ActiveRecord: 0.0ms | Allocations: 37223)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:15:46 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 913)
+  Rendered layout layouts/application.html.erb (Duration: 4.2ms | Allocations: 6918)
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms | Allocations: 7862)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:16:59 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.1ms | Allocations: 910)
+  Rendered layout layouts/application.html.erb (Duration: 5.6ms | Allocations: 6906)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms | Allocations: 7845)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:20:37 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 3.2ms | Allocations: 904)
+  Rendered layout layouts/application.html.erb (Duration: 9.4ms | Allocations: 6909)
+Completed 200 OK in 14ms (Views: 11.6ms | ActiveRecord: 0.0ms | Allocations: 7851)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:26:27 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.1ms | Allocations: 910)
+  Rendered layout layouts/application.html.erb (Duration: 4.3ms | Allocations: 6891)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms | Allocations: 7830)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:32:26 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 4.2ms | Allocations: 1392)
+  Rendered layout layouts/application.html.erb (Duration: 2151.5ms | Allocations: 43127)
+Completed 200 OK in 2154ms (Views: 2153.2ms | ActiveRecord: 0.0ms | Allocations: 44066)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:33:14 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.3ms | Allocations: 1386)
+  Rendered layout layouts/application.html.erb (Duration: 8.7ms | Allocations: 7657)
+Completed 200 OK in 10ms (Views: 9.7ms | ActiveRecord: 0.0ms | Allocations: 8597)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:34:13 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1393)
+  Rendered layout layouts/application.html.erb (Duration: 4.2ms | Allocations: 7629)
+Completed 200 OK in 6ms (Views: 5.1ms | ActiveRecord: 0.0ms | Allocations: 8571)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:34:30 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.2ms | Allocations: 1384)
+  Rendered layout layouts/application.html.erb (Duration: 5.5ms | Allocations: 7626)
+Completed 200 OK in 8ms (Views: 7.1ms | ActiveRecord: 0.0ms | Allocations: 8566)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:34:32 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.5ms | Allocations: 1028)
+  Rendered layout layouts/application.html.erb (Duration: 10.0ms | Allocations: 6951)
+Completed 200 OK in 13ms (Views: 11.4ms | ActiveRecord: 0.0ms | Allocations: 7242)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:34:50 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1388)
+  Rendered layout layouts/application.html.erb (Duration: 4.9ms | Allocations: 7639)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms | Allocations: 8561)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:34:57 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.4ms | Allocations: 1383)
+  Rendered layout layouts/application.html.erb (Duration: 6.2ms | Allocations: 7619)
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms | Allocations: 8558)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:36:57 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.9ms | Allocations: 1385)
+  Rendered layout layouts/application.html.erb (Duration: 2097.6ms | Allocations: 43693)
+Completed 200 OK in 2099ms (Views: 2098.8ms | ActiveRecord: 0.0ms | Allocations: 44635)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:37:25 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.6ms | Allocations: 1386)
+  Rendered layout layouts/application.html.erb (Duration: 7.0ms | Allocations: 7658)
+Completed 200 OK in 9ms (Views: 8.2ms | ActiveRecord: 0.0ms | Allocations: 8597)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:37:27 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 4.7ms | Allocations: 1030)
+  Rendered layout layouts/application.html.erb (Duration: 23.8ms | Allocations: 6958)
+Completed 200 OK in 26ms (Views: 24.3ms | ActiveRecord: 0.0ms | Allocations: 7249)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:37:48 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 4.6ms | Allocations: 1384)
+  Rendered layout layouts/application.html.erb (Duration: 24.3ms | Allocations: 7709)
+Completed 200 OK in 27ms (Views: 26.5ms | ActiveRecord: 0.0ms | Allocations: 8629)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:38:18 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.1ms | Allocations: 1393)
+  Rendered layout layouts/application.html.erb (Duration: 5.8ms | Allocations: 7740)
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms | Allocations: 8683)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:39:14 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.1ms | Allocations: 1033)
+  Rendered layout layouts/application.html.erb (Duration: 4.2ms | Allocations: 6970)
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms | Allocations: 7261)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:39:23 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.3ms | Allocations: 1383)
+  Rendered layout layouts/application.html.erb (Duration: 5.3ms | Allocations: 7621)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms | Allocations: 8544)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:41:35 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.3ms | Allocations: 1028)
+  Rendered layout layouts/application.html.erb (Duration: 2078.4ms | Allocations: 44049)
+Completed 200 OK in 2079ms (Views: 2079.2ms | ActiveRecord: 0.0ms | Allocations: 44340)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:42:26 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.4ms | Allocations: 1030)
+  Rendered layout layouts/application.html.erb (Duration: 2100.3ms | Allocations: 43896)
+Completed 200 OK in 2101ms (Views: 2100.6ms | ActiveRecord: 0.0ms | Allocations: 44167)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:44:33 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.4ms | Allocations: 1391)
+  Rendered layout layouts/application.html.erb (Duration: 5.1ms | Allocations: 7713)
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 8636)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:44:58 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.2ms | Allocations: 1390)
+  Rendered layout layouts/application.html.erb (Duration: 5.8ms | Allocations: 7628)
+Completed 200 OK in 7ms (Views: 6.8ms | ActiveRecord: 0.0ms | Allocations: 8570)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:45:08 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.3ms | Allocations: 1388)
+  Rendered layout layouts/application.html.erb (Duration: 5.5ms | Allocations: 7639)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms | Allocations: 8578)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:45:11 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.5ms | Allocations: 1028)
+  Rendered layout layouts/application.html.erb (Duration: 9.7ms | Allocations: 6947)
+Completed 200 OK in 11ms (Views: 10.2ms | ActiveRecord: 0.0ms | Allocations: 7239)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:45:29 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.3ms | Allocations: 1385)
+  Rendered layout layouts/application.html.erb (Duration: 4.9ms | Allocations: 7623)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms | Allocations: 8545)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:45:31 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.7ms | Allocations: 1028)
+  Rendered layout layouts/application.html.erb (Duration: 10.4ms | Allocations: 6956)
+Completed 200 OK in 12ms (Views: 10.9ms | ActiveRecord: 0.0ms | Allocations: 7247)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:45:45 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 1384)
+  Rendered layout layouts/application.html.erb (Duration: 4.6ms | Allocations: 7631)
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.0ms | Allocations: 8550)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:46:39 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.3ms | Allocations: 1387)
+  Rendered layout layouts/application.html.erb (Duration: 5.9ms | Allocations: 7631)
+Completed 200 OK in 7ms (Views: 6.8ms | ActiveRecord: 0.0ms | Allocations: 8570)
+
+
+Started GET "/" for ::1 at 2024-05-08 15:46:41 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.4ms | Allocations: 1028)
+  Rendered layout layouts/application.html.erb (Duration: 10.0ms | Allocations: 6965)
+Completed 200 OK in 11ms (Views: 10.7ms | ActiveRecord: 0.0ms | Allocations: 7256)
+
+
+Started GET "/" for ::1 at 2024-05-08 16:08:02 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 373.3ms | Allocations: 42206)
+  Rendered layout layouts/application.html.erb (Duration: 382.1ms | Allocations: 61768)
+Completed 200 OK in 394ms (Views: 386.3ms | ActiveRecord: 0.0ms | Allocations: 67064)
+
+
+Started GET "/" for ::1 at 2024-05-08 16:09:09 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 3.6ms | Allocations: 2405)
+  Rendered layout layouts/application.html.erb (Duration: 10.5ms | Allocations: 7754)
+Completed 200 OK in 14ms (Views: 12.8ms | ActiveRecord: 0.0ms | Allocations: 8751)
+
+
+  [1m[35m (1.0ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (0.3ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to DeviseCreateUsers (20240508140929)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[35mCREATE TABLE "users" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "email" varchar DEFAULT '' NOT NULL, "encrypted_password" varchar DEFAULT '' NOT NULL, "full_name" varchar, "username" varchar, "phone_number" varchar, "reset_password_token" varchar, "reset_password_sent_at" datetime(6), "remember_created_at" datetime(6), "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL)[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_users_on_email" ON "users" ("email")[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_users_on_reset_password_token" ON "users" ("reset_password_token")[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20240508140929"]]
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.0ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Create (0.1ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2024-05-08 14:11:05.697810"], ["updated_at", "2024-05-08 14:11:05.697810"]]
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/" for ::1 at 2024-05-08 16:14:27 +0200
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.3ms | Allocations: 2124)
+  Rendered layout layouts/application.html.erb (Duration: 8.6ms | Allocations: 21282)
+Completed 200 OK in 11ms (Views: 9.0ms | ActiveRecord: 0.0ms | Allocations: 23336)
+
+
+Started GET "/users" for ::1 at 2024-05-08 16:14:38 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+Started GET "/user/sign_up" for ::1 at 2024-05-08 16:14:46 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/user/sign_up"):
+  
+Started GET "/users/sign_up" for ::1 at 2024-05-08 16:15:01 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering /Users/betanyelibravo/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/devise-4.9.4/app/views/devise/registrations/new.html.erb within layouts/application
+  Rendered /Users/betanyelibravo/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/devise-4.9.4/app/views/devise/registrations/new.html.erb within layouts/application (Duration: 12.2ms | Allocations: 4945)
+  Rendered layout layouts/application.html.erb (Duration: 12.4ms | Allocations: 5022)
+Completed 500 Internal Server Error in 27ms (ActiveRecord: 0.4ms | Allocations: 15193)
+
+
+  
+ActionView::Template::Error (undefined method `registration_path' for #<ActionView::Base:0x00000000010c70>
+
+'.freeze;@output_buffer.append=  form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f| @output_buffer.safe_append='
+                                                                            ^^^^^^^^^^^^^^^^^):
+    1: <h2>Sign up</h2>
+    2: 
+    3: <%= form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f| %>
+    4:   <%= render "devise/shared/error_messages", resource: resource %>
+    5: 
+    6:   <div class="field">
+  
+devise (4.9.4) app/views/devise/registrations/new.html.erb:3
+actionview (7.0.8.1) lib/action_view/base.rb:244:in `public_send'
+actionview (7.0.8.1) lib/action_view/base.rb:244:in `_run'
+actionview (7.0.8.1) lib/action_view/template.rb:157:in `block in render'
+activesupport (7.0.8.1) lib/active_support/notifications.rb:208:in `instrument'
+actionview (7.0.8.1) lib/action_view/template.rb:361:in `instrument_render_template'
+actionview (7.0.8.1) lib/action_view/template.rb:155:in `render'
+actionview (7.0.8.1) lib/action_view/renderer/template_renderer.rb:65:in `block (2 levels) in render_template'
+activesupport (7.0.8.1) lib/active_support/notifications.rb:206:in `block in instrument'
+activesupport (7.0.8.1) lib/active_support/notifications/instrumenter.rb:24:in `instrument'
+activesupport (7.0.8.1) lib/active_support/notifications.rb:206:in `instrument'
+actionview (7.0.8.1) lib/action_view/renderer/template_renderer.rb:60:in `block in render_template'
+actionview (7.0.8.1) lib/action_view/renderer/template_renderer.rb:75:in `block in render_with_layout'
+activesupport (7.0.8.1) lib/active_support/notifications.rb:206:in `block in instrument'
+activesupport (7.0.8.1) lib/active_support/notifications/instrumenter.rb:24:in `instrument'
+activesupport (7.0.8.1) lib/active_support/notifications.rb:206:in `instrument'
+actionview (7.0.8.1) lib/action_view/renderer/template_renderer.rb:74:in `render_with_layout'
+actionview (7.0.8.1) lib/action_view/renderer/template_renderer.rb:59:in `render_template'
+actionview (7.0.8.1) lib/action_view/renderer/template_renderer.rb:11:in `render'
+actionview (7.0.8.1) lib/action_view/renderer/renderer.rb:61:in `render_template_to_object'
+actionview (7.0.8.1) lib/action_view/renderer/renderer.rb:29:in `render_to_object'
+actionview (7.0.8.1) lib/action_view/rendering.rb:117:in `block in _render_template'
+actionview (7.0.8.1) lib/action_view/base.rb:270:in `in_rendering_context'
+actionview (7.0.8.1) lib/action_view/rendering.rb:116:in `_render_template'
+actionpack (7.0.8.1) lib/action_controller/metal/streaming.rb:216:in `_render_template'
+actionview (7.0.8.1) lib/action_view/rendering.rb:103:in `render_to_body'
+actionpack (7.0.8.1) lib/action_controller/metal/rendering.rb:158:in `render_to_body'
+actionpack (7.0.8.1) lib/action_controller/metal/renderers.rb:141:in `render_to_body'
+actionpack (7.0.8.1) lib/abstract_controller/rendering.rb:27:in `render'
+actionpack (7.0.8.1) lib/action_controller/metal/rendering.rb:139:in `render'
+actionpack (7.0.8.1) lib/action_controller/metal/instrumentation.rb:22:in `block (2 levels) in render'
+/Users/betanyelibravo/.rbenv/versions/3.1.4/lib/ruby/3.1.0/benchmark.rb:311:in `realtime'
+activesupport (7.0.8.1) lib/active_support/core_ext/benchmark.rb:14:in `ms'
+actionpack (7.0.8.1) lib/action_controller/metal/instrumentation.rb:22:in `block in render'
+actionpack (7.0.8.1) lib/action_controller/metal/instrumentation.rb:91:in `cleanup_view_runtime'
+activerecord (7.0.8.1) lib/active_record/railties/controller_runtime.rb:34:in `cleanup_view_runtime'
+actionpack (7.0.8.1) lib/action_controller/metal/instrumentation.rb:21:in `render'
+responders (3.1.1) lib/action_controller/responder.rb:245:in `default_render'
+responders (3.1.1) lib/action_controller/responder.rb:175:in `to_html'
+responders (3.1.1) lib/action_controller/responder.rb:168:in `respond'
+responders (3.1.1) lib/action_controller/responder.rb:161:in `call'
+responders (3.1.1) lib/action_controller/respond_with.rb:216:in `respond_with'
+devise (4.9.4) app/controllers/devise/registrations_controller.rb:12:in `new'
+actionpack (7.0.8.1) lib/action_controller/metal/basic_implicit_render.rb:6:in `send_action'
+actionpack (7.0.8.1) lib/abstract_controller/base.rb:215:in `process_action'
+actionpack (7.0.8.1) lib/action_controller/metal/rendering.rb:165:in `process_action'
+actionpack (7.0.8.1) lib/abstract_controller/callbacks.rb:234:in `block in process_action'
+activesupport (7.0.8.1) lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+turbo-rails (2.0.5) lib/turbo-rails.rb:24:in `with_request_id'
+turbo-rails (2.0.5) app/controllers/concerns/turbo/request_id_tracking.rb:10:in `turbo_tracking_request_id'
+activesupport (7.0.8.1) lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+actiontext (7.0.8.1) lib/action_text/rendering.rb:20:in `with_renderer'
+actiontext (7.0.8.1) lib/action_text/engine.rb:69:in `block (4 levels) in <class:Engine>'
+activesupport (7.0.8.1) lib/active_support/callbacks.rb:127:in `instance_exec'
+activesupport (7.0.8.1) lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+activesupport (7.0.8.1) lib/active_support/callbacks.rb:138:in `run_callbacks'
+actionpack (7.0.8.1) lib/abstract_controller/callbacks.rb:233:in `process_action'
+actionpack (7.0.8.1) lib/action_controller/metal/rescue.rb:23:in `process_action'
+actionpack (7.0.8.1) lib/action_controller/metal/instrumentation.rb:67:in `block in process_action'
+activesupport (7.0.8.1) lib/active_support/notifications.rb:206:in `block in instrument'
+activesupport (7.0.8.1) lib/active_support/notifications/instrumenter.rb:24:in `instrument'
+activesupport (7.0.8.1) lib/active_support/notifications.rb:206:in `instrument'
+actionpack (7.0.8.1) lib/action_controller/metal/instrumentation.rb:66:in `process_action'
+actionpack (7.0.8.1) lib/action_controller/metal/params_wrapper.rb:259:in `process_action'
+activerecord (7.0.8.1) lib/active_record/railties/controller_runtime.rb:27:in `process_action'
+actionpack (7.0.8.1) lib/abstract_controller/base.rb:151:in `process'
+actionview (7.0.8.1) lib/action_view/rendering.rb:39:in `process'
+actionpack (7.0.8.1) lib/action_controller/metal.rb:188:in `dispatch'
+actionpack (7.0.8.1) lib/action_controller/metal.rb:251:in `dispatch'
+actionpack (7.0.8.1) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (7.0.8.1) lib/action_dispatch/routing/route_set.rb:32:in `serve'
+actionpack (7.0.8.1) lib/action_dispatch/routing/mapper.rb:18:in `block in <class:Constraints>'
+actionpack (7.0.8.1) lib/action_dispatch/routing/mapper.rb:48:in `serve'
+actionpack (7.0.8.1) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (7.0.8.1) lib/action_dispatch/journey/router.rb:32:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/journey/router.rb:32:in `serve'
+actionpack (7.0.8.1) lib/action_dispatch/routing/route_set.rb:852:in `call'
+warden (1.2.9) lib/warden/manager.rb:36:in `block in call'
+warden (1.2.9) lib/warden/manager.rb:34:in `catch'
+warden (1.2.9) lib/warden/manager.rb:34:in `call'
+rack (2.2.9) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.2.9) lib/rack/etag.rb:27:in `call'
+rack (2.2.9) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.9) lib/rack/head.rb:12:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/content_security_policy.rb:36:in `call'
+rack (2.2.9) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.9) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/cookies.rb:704:in `call'
+activerecord (7.0.8.1) lib/active_record/migration.rb:638:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (7.0.8.1) lib/active_support/callbacks.rb:99:in `run_callbacks'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/actionable_exceptions.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/debug_exceptions.rb:28:in `call'
+web-console (4.2.1) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/show_exceptions.rb:29:in `call'
+railties (7.0.8.1) lib/rails/rack/logger.rb:40:in `call_app'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `block in call'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/remote_ip.rb:93:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.9) lib/rack/method_override.rb:24:in `call'
+rack (2.2.9) lib/rack/runtime.rb:22:in `call'
+activesupport (7.0.8.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:61:in `block in call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:26:in `collect_events'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:60:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/static.rb:23:in `call'
+rack (2.2.9) lib/rack/sendfile.rb:110:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/host_authorization.rb:138:in `call'
+railties (7.0.8.1) lib/rails/engine.rb:530:in `call'
+puma (5.6.8) lib/puma/configuration.rb:252:in `call'
+puma (5.6.8) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.8) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.8) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.8) lib/puma/server.rb:443:in `process_client'
+puma (5.6.8) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/users/sign_up" for ::1 at 2024-05-08 16:16:19 +0200
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering /Users/betanyelibravo/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/devise-4.9.4/app/views/devise/registrations/new.html.erb within layouts/application
+  Rendered /Users/betanyelibravo/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/devise-4.9.4/app/views/devise/shared/_error_messages.html.erb (Duration: 0.4ms | Allocations: 260)
+  Rendered /Users/betanyelibravo/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/devise-4.9.4/app/views/devise/shared/_links.html.erb (Duration: 0.6ms | Allocations: 625)
+  Rendered /Users/betanyelibravo/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/devise-4.9.4/app/views/devise/registrations/new.html.erb within layouts/application (Duration: 7.4ms | Allocations: 5031)
+  Rendered layout layouts/application.html.erb (Duration: 41.6ms | Allocations: 50163)
+Completed 200 OK in 55ms (Views: 46.4ms | ActiveRecord: 0.3ms | Allocations: 63837)
+
+
+Started POST "/users" for ::1 at 2024-05-08 16:16:59 +0200
+Processing by Devise::RegistrationsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "user"=>{"email"=>"admin@sofatutor.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists? (0.2ms)[0m  [1m[34mSELECT 1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "admin@sofatutor.com"], ["LIMIT", 1]]
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("email", "encrypted_password", "full_name", "username", "phone_number", "reset_password_token", "reset_password_sent_at", "remember_created_at", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["email", "admin@sofatutor.com"], ["encrypted_password", "[FILTERED]"], ["full_name", nil], ["username", nil], ["phone_number", nil], ["reset_password_token", "[FILTERED]"], ["reset_password_sent_at", "[FILTERED]"], ["remember_created_at", nil], ["created_at", "2024-05-08 14:17:00.199758"], ["updated_at", "2024-05-08 14:17:00.199758"]]
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 303 See Other in 454ms (ActiveRecord: 0.9ms | Allocations: 11896)
+
+
+Started GET "/" for ::1 at 2024-05-08 16:17:00 +0200
+Processing by HomeController#index as TURBO_STREAM
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.1ms | Allocations: 2469)
+  Rendered layout layouts/application.html.erb (Duration: 4.8ms | Allocations: 7645)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms | Allocations: 8581)
+
+
+Started GET "/users/sign_up" for ::1 at 2024-05-08 16:22:18 +0200
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Devise::RegistrationsController#new as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 10ms (ActiveRecord: 0.3ms | Allocations: 13083)
+
+
+Started GET "/" for ::1 at 2024-05-08 16:22:18 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 28.7ms | Allocations: 28041)
+  Rendered layout layouts/application.html.erb (Duration: 37.2ms | Allocations: 47671)
+Completed 200 OK in 41ms (Views: 38.4ms | ActiveRecord: 0.0ms | Allocations: 51170)
+
+
+Started GET "/" for ::1 at 2024-05-08 16:22:20 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1926)
+  Rendered layout layouts/application.html.erb (Duration: 9.4ms | Allocations: 7009)
+Completed 200 OK in 12ms (Views: 10.3ms | ActiveRecord: 0.0ms | Allocations: 7328)
+
+
+Started GET "/users/sign_up" for ::1 at 2024-05-08 16:22:29 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 5ms (ActiveRecord: 0.2ms | Allocations: 2354)
+
+
+Started GET "/" for ::1 at 2024-05-08 16:22:29 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.2ms | Allocations: 1926)
+  Rendered layout layouts/application.html.erb (Duration: 7.0ms | Allocations: 7008)
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms | Allocations: 7284)
+
+
+Started GET "/" for ::1 at 2024-05-08 16:22:45 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 3.0ms | Allocations: 1890)
+  Rendered layout layouts/application.html.erb (Duration: 10.1ms | Allocations: 6972)
+Completed 200 OK in 12ms (Views: 10.9ms | ActiveRecord: 0.0ms | Allocations: 7249)
+
+
+Started GET "/users/sign_up" for ::1 at 2024-05-08 16:22:58 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 3ms (ActiveRecord: 0.1ms | Allocations: 2156)
+
+
+Started GET "/" for ::1 at 2024-05-08 16:22:58 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.0ms | Allocations: 1902)
+  Rendered layout layouts/application.html.erb (Duration: 6.9ms | Allocations: 6984)
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms | Allocations: 7260)
+
+
+Started GET "/users/sign_in" for ::1 at 2024-05-08 16:30:26 +0200
+Processing by Devise::SessionsController#new as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 4ms (ActiveRecord: 0.8ms | Allocations: 2828)
+
+
+Started GET "/" for ::1 at 2024-05-08 16:30:26 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 3.2ms | Allocations: 2423)
+  Rendered layout layouts/application.html.erb (Duration: 8.5ms | Allocations: 7770)
+Completed 200 OK in 11ms (Views: 9.8ms | ActiveRecord: 0.0ms | Allocations: 8757)
+
+
+Started GET "/users/sign_in" for ::1 at 2024-05-08 16:31:01 +0200
+Processing by Devise::SessionsController#new as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 4ms (ActiveRecord: 0.1ms | Allocations: 2336)
+
+
+Started GET "/" for ::1 at 2024-05-08 16:31:01 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.3ms | Allocations: 1929)
+  Rendered layout layouts/application.html.erb (Duration: 13.2ms | Allocations: 7029)
+Completed 200 OK in 14ms (Views: 13.5ms | ActiveRecord: 0.0ms | Allocations: 7324)
+
+
+Started GET "/" for ::1 at 2024-05-08 16:31:10 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.1ms | Allocations: 1918)
+  Rendered layout layouts/application.html.erb (Duration: 8.8ms | Allocations: 6997)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms | Allocations: 7271)
+
+
+Started GET "/users/sign_in" for ::1 at 2024-05-08 16:31:19 +0200
+Processing by Devise::SessionsController#new as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 5ms (ActiveRecord: 0.2ms | Allocations: 2133)
+
+
+Started GET "/" for ::1 at 2024-05-08 16:31:19 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.5ms | Allocations: 1917)
+  Rendered layout layouts/application.html.erb (Duration: 5.7ms | Allocations: 6996)
+Completed 200 OK in 6ms (Views: 6.0ms | ActiveRecord: 0.0ms | Allocations: 7270)
+
+
+Started GET "/users/sign_in" for ::1 at 2024-05-08 16:31:35 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.9ms | Allocations: 739)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 12.5ms | Allocations: 6223)
+  Rendered layout layouts/application.html.erb (Duration: 17.2ms | Allocations: 11358)
+Completed 200 OK in 33ms (Views: 19.8ms | ActiveRecord: 0.0ms | Allocations: 14863)
+
+
+Started GET "/users/sign_in" for ::1 at 2024-05-08 16:31:50 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 3.0ms | Allocations: 2215)
+  Rendered layout layouts/application.html.erb (Duration: 7.9ms | Allocations: 7559)
+Completed 200 OK in 11ms (Views: 10.1ms | ActiveRecord: 0.0ms | Allocations: 9161)
+
+
+Started GET "/users/sign_in" for ::1 at 2024-05-08 16:32:15 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 6.0ms | Allocations: 2213)
+  Rendered layout layouts/application.html.erb (Duration: 13.8ms | Allocations: 7536)
+Completed 200 OK in 20ms (Views: 17.3ms | ActiveRecord: 0.0ms | Allocations: 9112)
+
+
+Started POST "/users/sign_in" for ::1 at 2024-05-08 16:32:34 +0200
+Processing by Devise::SessionsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "user"=>{"email"=>"admin@sofatutor.com", "password"=>"[FILTERED]"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."email" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["email", "admin@sofatutor.com"], ["LIMIT", 1]]
+Completed 201 Created in 229ms (Views: 0.1ms | ActiveRecord: 0.5ms | Allocations: 4584)
+
+
+  
+NoMethodError (undefined method `empty?' for #<User id: 1, email: "admin@sofatutor.com", full_name: nil, username: nil, phone_number: nil, created_at: "2024-05-08 14:17:00.199758000 +0000", updated_at: "2024-05-08 14:17:00.199758000 +0000">):
+  
+activemodel (7.0.8.1) lib/active_model/attribute_methods.rb:450:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:71:in `block in digest_body'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each_chunk'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:127:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:75:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:480:in `each'
+rack (2.2.9) lib/rack/body_proxy.rb:41:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:69:in `digest_body'
+rack (2.2.9) lib/rack/etag.rb:33:in `call'
+rack (2.2.9) lib/rack/conditional_get.rb:40:in `call'
+rack (2.2.9) lib/rack/head.rb:12:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/content_security_policy.rb:36:in `call'
+rack (2.2.9) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.9) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/cookies.rb:704:in `call'
+activerecord (7.0.8.1) lib/active_record/migration.rb:638:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (7.0.8.1) lib/active_support/callbacks.rb:99:in `run_callbacks'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/actionable_exceptions.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/debug_exceptions.rb:28:in `call'
+web-console (4.2.1) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/show_exceptions.rb:29:in `call'
+railties (7.0.8.1) lib/rails/rack/logger.rb:40:in `call_app'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `block in call'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/remote_ip.rb:93:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.9) lib/rack/method_override.rb:24:in `call'
+rack (2.2.9) lib/rack/runtime.rb:22:in `call'
+activesupport (7.0.8.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:61:in `block in call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:26:in `collect_events'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:60:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/static.rb:23:in `call'
+rack (2.2.9) lib/rack/sendfile.rb:110:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/host_authorization.rb:138:in `call'
+railties (7.0.8.1) lib/rails/engine.rb:530:in `call'
+puma (5.6.8) lib/puma/configuration.rb:252:in `call'
+puma (5.6.8) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.8) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.8) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.8) lib/puma/server.rb:443:in `process_client'
+puma (5.6.8) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/" for ::1 at 2024-05-08 16:35:00 +0200
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.1ms | Allocations: 920)
+  Rendered layout layouts/application.html.erb (Duration: 36.8ms | Allocations: 46182)
+Completed 200 OK in 45ms (Views: 38.2ms | ActiveRecord: 0.0ms | Allocations: 52289)
+
+
+Started GET "/" for ::1 at 2024-05-08 16:35:04 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 311)
+  Rendered layout layouts/application.html.erb (Duration: 7.2ms | Allocations: 5659)
+Completed 200 OK in 8ms (Views: 7.7ms | ActiveRecord: 0.0ms | Allocations: 5996)
+
+
+Started GET "/" for ::1 at 2024-05-08 16:35:36 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 134)
+  Rendered layout layouts/application.html.erb (Duration: 8.2ms | Allocations: 5364)
+Completed 200 OK in 10ms (Views: 9.2ms | ActiveRecord: 0.0ms | Allocations: 5641)
+
+
+Started GET "/" for ::1 at 2024-05-08 16:35:39 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 228)
+  Rendered layout layouts/application.html.erb (Duration: 8.1ms | Allocations: 5430)
+Completed 200 OK in 10ms (Views: 9.0ms | ActiveRecord: 0.0ms | Allocations: 5704)
+
+
+Started GET "/users/sign_in" for ::1 at 2024-05-08 16:35:48 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 5.2ms | Allocations: 3258)
+  Rendered layout layouts/application.html.erb (Duration: 8.1ms | Allocations: 8414)
+Completed 200 OK in 21ms (Views: 10.1ms | ActiveRecord: 0.4ms | Allocations: 17683)
+
+
+Started POST "/users/sign_in" for ::1 at 2024-05-08 16:35:58 +0200
+Processing by Devise::SessionsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "user"=>{"email"=>"admin@admin.com", "password"=>"[FILTERED]"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."email" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["email", "admin@admin.com"], ["LIMIT", 1]]
+Completed 401 Unauthorized in 8ms (ActiveRecord: 0.7ms | Allocations: 3660)
+
+
+Started GET "/users/sign_in" for ::1 at 2024-05-08 16:35:58 +0200
+Processing by Devise::SessionsController#new as TURBO_STREAM
+Completed 200 OK in 3ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 2131)
+
+
+  
+NoMethodError (undefined method `empty?' for #<User id: nil, email: "", full_name: nil, username: nil, phone_number: nil, created_at: nil, updated_at: nil>):
+  
+activemodel (7.0.8.1) lib/active_model/attribute_methods.rb:450:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:71:in `block in digest_body'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each_chunk'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:127:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:75:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:480:in `each'
+rack (2.2.9) lib/rack/body_proxy.rb:41:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:69:in `digest_body'
+rack (2.2.9) lib/rack/etag.rb:33:in `call'
+rack (2.2.9) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.9) lib/rack/head.rb:12:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/content_security_policy.rb:36:in `call'
+rack (2.2.9) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.9) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/cookies.rb:704:in `call'
+activerecord (7.0.8.1) lib/active_record/migration.rb:638:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (7.0.8.1) lib/active_support/callbacks.rb:99:in `run_callbacks'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/actionable_exceptions.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/debug_exceptions.rb:28:in `call'
+web-console (4.2.1) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/show_exceptions.rb:29:in `call'
+railties (7.0.8.1) lib/rails/rack/logger.rb:40:in `call_app'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `block in call'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/remote_ip.rb:93:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.9) lib/rack/method_override.rb:24:in `call'
+rack (2.2.9) lib/rack/runtime.rb:22:in `call'
+activesupport (7.0.8.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:61:in `block in call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:26:in `collect_events'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:60:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/static.rb:23:in `call'
+rack (2.2.9) lib/rack/sendfile.rb:110:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/host_authorization.rb:138:in `call'
+railties (7.0.8.1) lib/rails/engine.rb:530:in `call'
+puma (5.6.8) lib/puma/configuration.rb:252:in `call'
+puma (5.6.8) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.8) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.8) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.8) lib/puma/server.rb:443:in `process_client'
+puma (5.6.8) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/users/sign_in" for ::1 at 2024-05-08 16:40:10 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 4.0ms | Allocations: 1732)
+  Rendered layout layouts/application.html.erb (Duration: 9.4ms | Allocations: 6925)
+Completed 200 OK in 12ms (Views: 10.1ms | ActiveRecord: 0.0ms | Allocations: 7714)
+
+
+Started GET "/users/sign_up" for ::1 at 2024-05-08 16:40:18 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (Duration: 0.5ms | Allocations: 217)
+  Rendered devise/shared/_links.html.erb (Duration: 0.6ms | Allocations: 626)
+  Rendered devise/registrations/new.html.erb within layouts/application (Duration: 4.2ms | Allocations: 3109)
+  Rendered layout layouts/application.html.erb (Duration: 7.5ms | Allocations: 8487)
+Completed 200 OK in 10ms (Views: 8.9ms | ActiveRecord: 0.0ms | Allocations: 9840)
+
+
+Started POST "/users" for ::1 at 2024-05-08 16:40:27 +0200
+Processing by Devise::RegistrationsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "user"=>{"email"=>"beta@sofatutor.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists? (0.1ms)[0m  [1m[34mSELECT 1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "beta@sofatutor.com"], ["LIMIT", 1]]
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[31mrollback transaction[0m
+Completed 422 Unprocessable Entity in 227ms (Views: 0.1ms | ActiveRecord: 0.1ms | Allocations: 5657)
+
+
+Started GET "/users/sign_in" for ::1 at 2024-05-08 16:40:30 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 3.5ms | Allocations: 1713)
+  Rendered layout layouts/application.html.erb (Duration: 10.1ms | Allocations: 6803)
+Completed 200 OK in 13ms (Views: 10.9ms | ActiveRecord: 0.0ms | Allocations: 7565)
+
+
+Started POST "/users/sign_in" for ::1 at 2024-05-08 16:40:35 +0200
+Processing by Devise::SessionsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "user"=>{"email"=>"beta@sofatutor.com", "password"=>"[FILTERED]"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."email" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["email", "beta@sofatutor.com"], ["LIMIT", 1]]
+Completed 401 Unauthorized in 5ms (ActiveRecord: 0.2ms | Allocations: 1511)
+
+
+Started GET "/users/sign_in" for ::1 at 2024-05-08 16:40:35 +0200
+Processing by Devise::SessionsController#new as TURBO_STREAM
+Completed 200 OK in 2ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 1091)
+
+
+  
+NoMethodError (undefined method `empty?' for #<User id: nil, email: "", full_name: nil, username: nil, phone_number: nil, created_at: nil, updated_at: nil>):
+  
+activemodel (7.0.8.1) lib/active_model/attribute_methods.rb:450:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:71:in `block in digest_body'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each_chunk'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:127:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:75:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:480:in `each'
+rack (2.2.9) lib/rack/body_proxy.rb:41:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:69:in `digest_body'
+rack (2.2.9) lib/rack/etag.rb:33:in `call'
+rack (2.2.9) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.9) lib/rack/head.rb:12:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/content_security_policy.rb:36:in `call'
+rack (2.2.9) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.9) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/cookies.rb:704:in `call'
+activerecord (7.0.8.1) lib/active_record/migration.rb:638:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (7.0.8.1) lib/active_support/callbacks.rb:99:in `run_callbacks'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/actionable_exceptions.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/debug_exceptions.rb:28:in `call'
+web-console (4.2.1) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/show_exceptions.rb:29:in `call'
+railties (7.0.8.1) lib/rails/rack/logger.rb:40:in `call_app'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `block in call'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/remote_ip.rb:93:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.9) lib/rack/method_override.rb:24:in `call'
+rack (2.2.9) lib/rack/runtime.rb:22:in `call'
+activesupport (7.0.8.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:61:in `block in call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:26:in `collect_events'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:60:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/static.rb:23:in `call'
+rack (2.2.9) lib/rack/sendfile.rb:110:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/host_authorization.rb:138:in `call'
+railties (7.0.8.1) lib/rails/engine.rb:530:in `call'
+puma (5.6.8) lib/puma/configuration.rb:252:in `call'
+puma (5.6.8) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.8) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.8) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.8) lib/puma/server.rb:443:in `process_client'
+puma (5.6.8) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/users/sign_in" for ::1 at 2024-05-08 16:46:54 +0200
+  [1m[36mActiveRecord::SchemaMigration Pluck (1.7ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 29.0ms | Allocations: 28863)
+  Rendered layout layouts/application.html.erb (Duration: 36.3ms | Allocations: 48475)
+Completed 200 OK in 49ms (Views: 41.4ms | ActiveRecord: 0.2ms | Allocations: 61523)
+
+
+Started POST "/users/sign_in" for ::1 at 2024-05-08 16:47:04 +0200
+Processing by Devise::SessionsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "user"=>{"email"=>"beta@sofatutor.com", "password"=>"[FILTERED]"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."email" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["email", "beta@sofatutor.com"], ["LIMIT", 1]]
+Completed 401 Unauthorized in 8ms (ActiveRecord: 0.6ms | Allocations: 3682)
+
+
+Started GET "/users/sign_in" for ::1 at 2024-05-08 16:47:04 +0200
+Processing by Devise::SessionsController#new as TURBO_STREAM
+Completed 200 OK in 4ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 2132)
+
+
+  
+NoMethodError (undefined method `empty?' for #<User id: nil, email: "", full_name: nil, username: nil, phone_number: nil, created_at: nil, updated_at: nil>):
+  
+activemodel (7.0.8.1) lib/active_model/attribute_methods.rb:450:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:71:in `block in digest_body'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each_chunk'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:127:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:75:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:480:in `each'
+rack (2.2.9) lib/rack/body_proxy.rb:41:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:69:in `digest_body'
+rack (2.2.9) lib/rack/etag.rb:33:in `call'
+rack (2.2.9) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.9) lib/rack/head.rb:12:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/content_security_policy.rb:36:in `call'
+rack (2.2.9) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.9) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/cookies.rb:704:in `call'
+activerecord (7.0.8.1) lib/active_record/migration.rb:638:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (7.0.8.1) lib/active_support/callbacks.rb:99:in `run_callbacks'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/actionable_exceptions.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/debug_exceptions.rb:28:in `call'
+web-console (4.2.1) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/show_exceptions.rb:29:in `call'
+railties (7.0.8.1) lib/rails/rack/logger.rb:40:in `call_app'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `block in call'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/remote_ip.rb:93:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.9) lib/rack/method_override.rb:24:in `call'
+rack (2.2.9) lib/rack/runtime.rb:22:in `call'
+activesupport (7.0.8.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:61:in `block in call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:26:in `collect_events'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:60:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/static.rb:23:in `call'
+rack (2.2.9) lib/rack/sendfile.rb:110:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/host_authorization.rb:138:in `call'
+railties (7.0.8.1) lib/rails/engine.rb:530:in `call'
+puma (5.6.8) lib/puma/configuration.rb:252:in `call'
+puma (5.6.8) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.8) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.8) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.8) lib/puma/server.rb:443:in `process_client'
+puma (5.6.8) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started POST "/users" for ::1 at 2024-05-08 16:47:24 +0200
+Processing by Devise::RegistrationsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "user"=>{"email"=>"a@a.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists? (0.1ms)[0m  [1m[34mSELECT 1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "a@a.com"], ["LIMIT", 1]]
+  [1m[36mUser Create (1.9ms)[0m  [1m[32mINSERT INTO "users" ("email", "encrypted_password", "full_name", "username", "phone_number", "reset_password_token", "reset_password_sent_at", "remember_created_at", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["email", "a@a.com"], ["encrypted_password", "[FILTERED]"], ["full_name", nil], ["username", nil], ["phone_number", nil], ["reset_password_token", "[FILTERED]"], ["reset_password_sent_at", "[FILTERED]"], ["remember_created_at", nil], ["created_at", "2024-05-08 14:47:24.978509"], ["updated_at", "2024-05-08 14:47:24.978509"]]
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[36mcommit transaction[0m
+Completed 201 Created in 227ms (Views: 0.1ms | ActiveRecord: 2.2ms | Allocations: 9205)
+
+
+  
+NoMethodError (undefined method `empty?' for #<User id: 2, email: "a@a.com", full_name: nil, username: nil, phone_number: nil, created_at: "2024-05-08 14:47:24.978509000 +0000", updated_at: "2024-05-08 14:47:24.978509000 +0000">):
+  
+activemodel (7.0.8.1) lib/active_model/attribute_methods.rb:450:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:71:in `block in digest_body'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each_chunk'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:127:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:75:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:480:in `each'
+rack (2.2.9) lib/rack/body_proxy.rb:41:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:69:in `digest_body'
+rack (2.2.9) lib/rack/etag.rb:33:in `call'
+rack (2.2.9) lib/rack/conditional_get.rb:40:in `call'
+rack (2.2.9) lib/rack/head.rb:12:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/content_security_policy.rb:36:in `call'
+rack (2.2.9) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.9) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/cookies.rb:704:in `call'
+activerecord (7.0.8.1) lib/active_record/migration.rb:638:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (7.0.8.1) lib/active_support/callbacks.rb:99:in `run_callbacks'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/actionable_exceptions.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/debug_exceptions.rb:28:in `call'
+web-console (4.2.1) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/show_exceptions.rb:29:in `call'
+railties (7.0.8.1) lib/rails/rack/logger.rb:40:in `call_app'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `block in call'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/remote_ip.rb:93:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.9) lib/rack/method_override.rb:24:in `call'
+rack (2.2.9) lib/rack/runtime.rb:22:in `call'
+activesupport (7.0.8.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:61:in `block in call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:26:in `collect_events'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:60:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/static.rb:23:in `call'
+rack (2.2.9) lib/rack/sendfile.rb:110:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/host_authorization.rb:138:in `call'
+railties (7.0.8.1) lib/rails/engine.rb:530:in `call'
+puma (5.6.8) lib/puma/configuration.rb:252:in `call'
+puma (5.6.8) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.8) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.8) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.8) lib/puma/server.rb:443:in `process_client'
+puma (5.6.8) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/" for ::1 at 2024-05-08 16:54:31 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 480)
+  Rendered layout layouts/application.html.erb (Duration: 5.1ms | Allocations: 6025)
+Completed 200 OK in 8ms (Views: 6.2ms | ActiveRecord: 0.0ms | Allocations: 6914)
+
+
+Started GET "/users/sign_in" for ::1 at 2024-05-08 16:54:43 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 5.3ms | Allocations: 1610)
+  Rendered layout layouts/application.html.erb (Duration: 12.2ms | Allocations: 6681)
+Completed 200 OK in 15ms (Views: 13.2ms | ActiveRecord: 0.0ms | Allocations: 7363)
+
+
+Started GET "/users/sign_up" for ::1 at 2024-05-08 16:55:17 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (Duration: 0.7ms | Allocations: 215)
+  Rendered devise/shared/_links.html.erb (Duration: 1.0ms | Allocations: 626)
+  Rendered devise/registrations/new.html.erb within layouts/application (Duration: 15.2ms | Allocations: 5307)
+  Rendered layout layouts/application.html.erb (Duration: 18.7ms | Allocations: 10680)
+Completed 200 OK in 21ms (Views: 19.9ms | ActiveRecord: 0.0ms | Allocations: 11473)
+
+
+Started POST "/users" for ::1 at 2024-05-08 16:55:39 +0200
+Processing by Devise::RegistrationsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "user"=>{"email"=>"beta@gmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists? (0.5ms)[0m  [1m[34mSELECT 1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "beta@gmail.com"], ["LIMIT", 1]]
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("email", "encrypted_password", "full_name", "username", "phone_number", "reset_password_token", "reset_password_sent_at", "remember_created_at", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["email", "beta@gmail.com"], ["encrypted_password", "[FILTERED]"], ["full_name", nil], ["username", nil], ["phone_number", nil], ["reset_password_token", "[FILTERED]"], ["reset_password_sent_at", "[FILTERED]"], ["remember_created_at", nil], ["created_at", "2024-05-08 14:55:40.025439"], ["updated_at", "2024-05-08 14:55:40.025439"]]
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[36mcommit transaction[0m
+Completed 201 Created in 229ms (Views: 0.0ms | ActiveRecord: 1.4ms | Allocations: 6074)
+
+
+  
+NoMethodError (undefined method `empty?' for #<User id: 3, email: "beta@gmail.com", full_name: nil, username: nil, phone_number: nil, created_at: "2024-05-08 14:55:40.025439000 +0000", updated_at: "2024-05-08 14:55:40.025439000 +0000">):
+  
+activemodel (7.0.8.1) lib/active_model/attribute_methods.rb:450:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:71:in `block in digest_body'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each_chunk'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:127:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:75:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:480:in `each'
+rack (2.2.9) lib/rack/body_proxy.rb:41:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:69:in `digest_body'
+rack (2.2.9) lib/rack/etag.rb:33:in `call'
+rack (2.2.9) lib/rack/conditional_get.rb:40:in `call'
+rack (2.2.9) lib/rack/head.rb:12:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/content_security_policy.rb:36:in `call'
+rack (2.2.9) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.9) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/cookies.rb:704:in `call'
+activerecord (7.0.8.1) lib/active_record/migration.rb:638:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (7.0.8.1) lib/active_support/callbacks.rb:99:in `run_callbacks'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/actionable_exceptions.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/debug_exceptions.rb:28:in `call'
+web-console (4.2.1) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/show_exceptions.rb:29:in `call'
+railties (7.0.8.1) lib/rails/rack/logger.rb:40:in `call_app'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `block in call'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/remote_ip.rb:93:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.9) lib/rack/method_override.rb:24:in `call'
+rack (2.2.9) lib/rack/runtime.rb:22:in `call'
+activesupport (7.0.8.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:61:in `block in call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:26:in `collect_events'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:60:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/static.rb:23:in `call'
+rack (2.2.9) lib/rack/sendfile.rb:110:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/host_authorization.rb:138:in `call'
+railties (7.0.8.1) lib/rails/engine.rb:530:in `call'
+puma (5.6.8) lib/puma/configuration.rb:252:in `call'
+puma (5.6.8) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.8) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.8) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.8) lib/puma/server.rb:443:in `process_client'
+puma (5.6.8) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/users/sign_in" for ::1 at 2024-05-08 16:58:06 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 4.2ms | Allocations: 1568)
+  Rendered layout layouts/application.html.erb (Duration: 11.4ms | Allocations: 6741)
+Completed 200 OK in 15ms (Views: 12.7ms | ActiveRecord: 0.0ms | Allocations: 7379)
+
+
+Started POST "/users/sign_in" for ::1 at 2024-05-08 16:58:25 +0200
+Processing by Devise::SessionsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "user"=>{"email"=>"beta@gmail.com", "password"=>"[FILTERED]"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."email" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["email", "beta@gmail.com"], ["LIMIT", 1]]
+Completed 201 Created in 227ms (Views: 0.1ms | ActiveRecord: 0.4ms | Allocations: 2643)
+
+
+  
+NoMethodError (undefined method `empty?' for #<User id: 3, email: "beta@gmail.com", full_name: nil, username: nil, phone_number: nil, created_at: "2024-05-08 14:55:40.025439000 +0000", updated_at: "2024-05-08 14:55:40.025439000 +0000">):
+  
+activemodel (7.0.8.1) lib/active_model/attribute_methods.rb:450:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:71:in `block in digest_body'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each_chunk'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:127:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:75:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:480:in `each'
+rack (2.2.9) lib/rack/body_proxy.rb:41:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:69:in `digest_body'
+rack (2.2.9) lib/rack/etag.rb:33:in `call'
+rack (2.2.9) lib/rack/conditional_get.rb:40:in `call'
+rack (2.2.9) lib/rack/head.rb:12:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/content_security_policy.rb:36:in `call'
+rack (2.2.9) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.9) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/cookies.rb:704:in `call'
+activerecord (7.0.8.1) lib/active_record/migration.rb:638:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (7.0.8.1) lib/active_support/callbacks.rb:99:in `run_callbacks'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/actionable_exceptions.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/debug_exceptions.rb:28:in `call'
+web-console (4.2.1) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/show_exceptions.rb:29:in `call'
+railties (7.0.8.1) lib/rails/rack/logger.rb:40:in `call_app'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `block in call'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/remote_ip.rb:93:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.9) lib/rack/method_override.rb:24:in `call'
+rack (2.2.9) lib/rack/runtime.rb:22:in `call'
+activesupport (7.0.8.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:61:in `block in call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:26:in `collect_events'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:60:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/static.rb:23:in `call'
+rack (2.2.9) lib/rack/sendfile.rb:110:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/host_authorization.rb:138:in `call'
+railties (7.0.8.1) lib/rails/engine.rb:530:in `call'
+puma (5.6.8) lib/puma/configuration.rb:252:in `call'
+puma (5.6.8) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.8) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.8) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.8) lib/puma/server.rb:443:in `process_client'
+puma (5.6.8) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/users/sign_in" for ::1 at 2024-05-08 16:58:29 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 4.2ms | Allocations: 1552)
+  Rendered layout layouts/application.html.erb (Duration: 11.7ms | Allocations: 6725)
+Completed 200 OK in 14ms (Views: 12.4ms | ActiveRecord: 0.0ms | Allocations: 7392)
+
+
+Started GET "/" for ::1 at 2024-05-08 16:58:31 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 245)
+  Rendered layout layouts/application.html.erb (Duration: 3.6ms | Allocations: 5447)
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms | Allocations: 5721)
+
+
+Started GET "/users/sign_up" for ::1 at 2024-05-08 17:02:16 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (Duration: 0.0ms | Allocations: 19)
+  Rendered devise/shared/_links.html.erb (Duration: 0.1ms | Allocations: 103)
+  Rendered devise/registrations/new.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1454)
+  Rendered layout layouts/application.html.erb (Duration: 9.2ms | Allocations: 20993)
+Completed 200 OK in 12ms (Views: 9.8ms | ActiveRecord: 0.3ms | Allocations: 25426)
+
+
+Started POST "/users" for ::1 at 2024-05-08 17:02:30 +0200
+Processing by Devise::RegistrationsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "user"=>{"email"=>"pepe@gmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists? (0.1ms)[0m  [1m[34mSELECT 1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "pepe@gmail.com"], ["LIMIT", 1]]
+  [1m[36mUser Create (0.2ms)[0m  [1m[32mINSERT INTO "users" ("email", "encrypted_password", "full_name", "username", "phone_number", "reset_password_token", "reset_password_sent_at", "remember_created_at", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["email", "pepe@gmail.com"], ["encrypted_password", "[FILTERED]"], ["full_name", nil], ["username", nil], ["phone_number", nil], ["reset_password_token", "[FILTERED]"], ["reset_password_sent_at", "[FILTERED]"], ["remember_created_at", nil], ["created_at", "2024-05-08 15:02:31.119145"], ["updated_at", "2024-05-08 15:02:31.119145"]]
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[36mcommit transaction[0m
+Completed 201 Created in 224ms (Views: 0.1ms | ActiveRecord: 1.0ms | Allocations: 6449)
+
+
+  
+NoMethodError (undefined method `empty?' for #<User id: 4, email: "pepe@gmail.com", full_name: nil, username: nil, phone_number: nil, created_at: "2024-05-08 15:02:31.119145000 +0000", updated_at: "2024-05-08 15:02:31.119145000 +0000">):
+  
+activemodel (7.0.8.1) lib/active_model/attribute_methods.rb:450:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:71:in `block in digest_body'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each_chunk'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:127:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:75:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:480:in `each'
+rack (2.2.9) lib/rack/body_proxy.rb:41:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:69:in `digest_body'
+rack (2.2.9) lib/rack/etag.rb:33:in `call'
+rack (2.2.9) lib/rack/conditional_get.rb:40:in `call'
+rack (2.2.9) lib/rack/head.rb:12:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/content_security_policy.rb:36:in `call'
+rack (2.2.9) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.9) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/cookies.rb:704:in `call'
+activerecord (7.0.8.1) lib/active_record/migration.rb:638:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (7.0.8.1) lib/active_support/callbacks.rb:99:in `run_callbacks'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/actionable_exceptions.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/debug_exceptions.rb:28:in `call'
+web-console (4.2.1) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/show_exceptions.rb:29:in `call'
+railties (7.0.8.1) lib/rails/rack/logger.rb:40:in `call_app'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `block in call'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/remote_ip.rb:93:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.9) lib/rack/method_override.rb:24:in `call'
+rack (2.2.9) lib/rack/runtime.rb:22:in `call'
+activesupport (7.0.8.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:61:in `block in call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:26:in `collect_events'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:60:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/static.rb:23:in `call'
+rack (2.2.9) lib/rack/sendfile.rb:110:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/host_authorization.rb:138:in `call'
+railties (7.0.8.1) lib/rails/engine.rb:530:in `call'
+puma (5.6.8) lib/puma/configuration.rb:252:in `call'
+puma (5.6.8) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.8) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.8) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.8) lib/puma/server.rb:443:in `process_client'
+puma (5.6.8) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/users/sign_up" for ::1 at 2024-05-08 17:11:18 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered devise/shared/_links.html.erb (Duration: 0.1ms | Allocations: 78)
+  Rendered devise/registrations/new.html.erb within layouts/application (Duration: 0.9ms | Allocations: 1189)
+  Rendered layout layouts/application.html.erb (Duration: 5.1ms | Allocations: 6486)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 7094)
+
+
+Started GET "/users/sign_in" for ::1 at 2024-05-08 17:11:28 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 4.0ms | Allocations: 1852)
+  Rendered layout layouts/application.html.erb (Duration: 9.2ms | Allocations: 7095)
+Completed 200 OK in 12ms (Views: 10.6ms | ActiveRecord: 0.0ms | Allocations: 8354)
+
+
+Started POST "/users/sign_in" for ::1 at 2024-05-08 17:11:31 +0200
+Processing by Devise::SessionsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "user"=>{"email"=>"", "password"=>"[FILTERED]"}, "commit"=>"Log in"}
+Completed 401 Unauthorized in 2ms (ActiveRecord: 0.0ms | Allocations: 528)
+
+
+Started GET "/users/sign_in" for ::1 at 2024-05-08 17:11:31 +0200
+Processing by Devise::SessionsController#new as TURBO_STREAM
+Completed 200 OK in 2ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 1125)
+
+
+  
+NoMethodError (undefined method `empty?' for #<User id: nil, email: "", full_name: nil, username: nil, phone_number: nil, created_at: nil, updated_at: nil>):
+  
+activemodel (7.0.8.1) lib/active_model/attribute_methods.rb:450:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:71:in `block in digest_body'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each_chunk'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:127:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:75:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:480:in `each'
+rack (2.2.9) lib/rack/body_proxy.rb:41:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:69:in `digest_body'
+rack (2.2.9) lib/rack/etag.rb:33:in `call'
+rack (2.2.9) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.9) lib/rack/head.rb:12:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/content_security_policy.rb:36:in `call'
+rack (2.2.9) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.9) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/cookies.rb:704:in `call'
+activerecord (7.0.8.1) lib/active_record/migration.rb:638:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (7.0.8.1) lib/active_support/callbacks.rb:99:in `run_callbacks'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/actionable_exceptions.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/debug_exceptions.rb:28:in `call'
+web-console (4.2.1) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/show_exceptions.rb:29:in `call'
+railties (7.0.8.1) lib/rails/rack/logger.rb:40:in `call_app'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `block in call'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/remote_ip.rb:93:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.9) lib/rack/method_override.rb:24:in `call'
+rack (2.2.9) lib/rack/runtime.rb:22:in `call'
+activesupport (7.0.8.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:61:in `block in call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:26:in `collect_events'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:60:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/static.rb:23:in `call'
+rack (2.2.9) lib/rack/sendfile.rb:110:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/host_authorization.rb:138:in `call'
+railties (7.0.8.1) lib/rails/engine.rb:530:in `call'
+puma (5.6.8) lib/puma/configuration.rb:252:in `call'
+puma (5.6.8) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.8) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.8) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.8) lib/puma/server.rb:443:in `process_client'
+puma (5.6.8) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/users/sign_in" for ::1 at 2024-05-08 17:14:33 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 1.9ms | Allocations: 2211)
+  Rendered layout layouts/application.html.erb (Duration: 5.5ms | Allocations: 7636)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms | Allocations: 9135)
+
+
+Started POST "/users/sign_in" for ::1 at 2024-05-08 17:14:46 +0200
+Processing by Devise::SessionsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "user"=>{"email"=>"beta@gmail.com", "password"=>"[FILTERED]"}, "commit"=>"Log In"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."email" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["email", "beta@gmail.com"], ["LIMIT", 1]]
+Completed 201 Created in 223ms (Views: 0.1ms | ActiveRecord: 0.8ms | Allocations: 3375)
+
+
+  
+NoMethodError (undefined method `empty?' for #<User id: 3, email: "beta@gmail.com", full_name: nil, username: nil, phone_number: nil, created_at: "2024-05-08 14:55:40.025439000 +0000", updated_at: "2024-05-08 14:55:40.025439000 +0000">):
+  
+activemodel (7.0.8.1) lib/active_model/attribute_methods.rb:450:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:71:in `block in digest_body'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each_chunk'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:127:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:75:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:480:in `each'
+rack (2.2.9) lib/rack/body_proxy.rb:41:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:69:in `digest_body'
+rack (2.2.9) lib/rack/etag.rb:33:in `call'
+rack (2.2.9) lib/rack/conditional_get.rb:40:in `call'
+rack (2.2.9) lib/rack/head.rb:12:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/content_security_policy.rb:36:in `call'
+rack (2.2.9) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.9) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/cookies.rb:704:in `call'
+activerecord (7.0.8.1) lib/active_record/migration.rb:638:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (7.0.8.1) lib/active_support/callbacks.rb:99:in `run_callbacks'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/actionable_exceptions.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/debug_exceptions.rb:28:in `call'
+web-console (4.2.1) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/show_exceptions.rb:29:in `call'
+railties (7.0.8.1) lib/rails/rack/logger.rb:40:in `call_app'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `block in call'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/remote_ip.rb:93:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.9) lib/rack/method_override.rb:24:in `call'
+rack (2.2.9) lib/rack/runtime.rb:22:in `call'
+activesupport (7.0.8.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:61:in `block in call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:26:in `collect_events'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:60:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/static.rb:23:in `call'
+rack (2.2.9) lib/rack/sendfile.rb:110:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/host_authorization.rb:138:in `call'
+railties (7.0.8.1) lib/rails/engine.rb:530:in `call'
+puma (5.6.8) lib/puma/configuration.rb:252:in `call'
+puma (5.6.8) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.8) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.8) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.8) lib/puma/server.rb:443:in `process_client'
+puma (5.6.8) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/users/sign_in" for ::1 at 2024-05-08 17:20:49 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 1.7ms | Allocations: 2192)
+  Rendered layout layouts/application.html.erb (Duration: 4.9ms | Allocations: 7618)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms | Allocations: 9117)
+
+
+Started POST "/users/sign_in" for ::1 at 2024-05-08 17:20:55 +0200
+Processing by Devise::SessionsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "user"=>{"email"=>"beta@sofatutor.com", "password"=>"[FILTERED]"}, "commit"=>"Log In"}
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."email" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["email", "beta@sofatutor.com"], ["LIMIT", 1]]
+Completed 401 Unauthorized in 4ms (ActiveRecord: 0.5ms | Allocations: 1873)
+
+
+Started GET "/users/sign_in" for ::1 at 2024-05-08 17:20:55 +0200
+Processing by Devise::SessionsController#new as TURBO_STREAM
+Completed 200 OK in 2ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 1617)
+
+
+  
+NoMethodError (undefined method `empty?' for #<User id: nil, email: "", full_name: nil, username: nil, phone_number: nil, created_at: nil, updated_at: nil>):
+  
+activemodel (7.0.8.1) lib/active_model/attribute_methods.rb:450:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:71:in `block in digest_body'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each_chunk'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:127:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:75:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:480:in `each'
+rack (2.2.9) lib/rack/body_proxy.rb:41:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:69:in `digest_body'
+rack (2.2.9) lib/rack/etag.rb:33:in `call'
+rack (2.2.9) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.9) lib/rack/head.rb:12:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/content_security_policy.rb:36:in `call'
+rack (2.2.9) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.9) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/cookies.rb:704:in `call'
+activerecord (7.0.8.1) lib/active_record/migration.rb:638:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (7.0.8.1) lib/active_support/callbacks.rb:99:in `run_callbacks'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/actionable_exceptions.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/debug_exceptions.rb:28:in `call'
+web-console (4.2.1) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/show_exceptions.rb:29:in `call'
+railties (7.0.8.1) lib/rails/rack/logger.rb:40:in `call_app'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `block in call'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/remote_ip.rb:93:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.9) lib/rack/method_override.rb:24:in `call'
+rack (2.2.9) lib/rack/runtime.rb:22:in `call'
+activesupport (7.0.8.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:61:in `block in call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:26:in `collect_events'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:60:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/static.rb:23:in `call'
+rack (2.2.9) lib/rack/sendfile.rb:110:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/host_authorization.rb:138:in `call'
+railties (7.0.8.1) lib/rails/engine.rb:530:in `call'
+puma (5.6.8) lib/puma/configuration.rb:252:in `call'
+puma (5.6.8) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.8) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.8) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.8) lib/puma/server.rb:443:in `process_client'
+puma (5.6.8) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/users/sign_in" for ::1 at 2024-05-08 17:21:02 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 2.6ms | Allocations: 2199)
+  Rendered layout layouts/application.html.erb (Duration: 6.4ms | Allocations: 7624)
+Completed 200 OK in 9ms (Views: 8.2ms | ActiveRecord: 0.0ms | Allocations: 9111)
+
+
+Started GET "/users/sign_up" for ::1 at 2024-05-08 17:21:12 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (Duration: 0.7ms | Allocations: 209)
+  Rendered devise/shared/_links.html.erb (Duration: 0.9ms | Allocations: 488)
+  Rendered devise/registrations/new.html.erb within layouts/application (Duration: 5.0ms | Allocations: 2465)
+  Rendered layout layouts/application.html.erb (Duration: 12.0ms | Allocations: 7943)
+Completed 200 OK in 15ms (Views: 14.1ms | ActiveRecord: 0.0ms | Allocations: 9054)
+
+
+Started GET "/users/sign_up" for ::1 at 2024-05-08 17:23:08 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/registrations/new.html.erb within layouts/application (Duration: 4.9ms | Allocations: 2647)
+  Rendered layout layouts/application.html.erb (Duration: 12.5ms | Allocations: 7967)
+Completed 200 OK in 17ms (Views: 15.2ms | ActiveRecord: 0.0ms | Allocations: 9499)
+
+
+Started GET "/users/sign_up" for ::1 at 2024-05-08 17:23:45 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/registrations/new.html.erb within layouts/application (Duration: 2.7ms | Allocations: 2588)
+  Rendered layout layouts/application.html.erb (Duration: 6.5ms | Allocations: 7908)
+Completed 200 OK in 9ms (Views: 8.5ms | ActiveRecord: 0.0ms | Allocations: 9435)
+
+
+Started POST "/users" for ::1 at 2024-05-08 17:24:28 +0200
+Processing by Devise::RegistrationsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "user"=>{"email"=>"betanyeli@gmail.com", "full_name"=>"Beta", "username"=>"betanyeli", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists? (0.1ms)[0m  [1m[34mSELECT 1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "betanyeli@gmail.com"], ["LIMIT", 1]]
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("email", "encrypted_password", "full_name", "username", "phone_number", "reset_password_token", "reset_password_sent_at", "remember_created_at", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["email", "betanyeli@gmail.com"], ["encrypted_password", "[FILTERED]"], ["full_name", "Beta"], ["username", "betanyeli"], ["phone_number", nil], ["reset_password_token", "[FILTERED]"], ["reset_password_sent_at", "[FILTERED]"], ["remember_created_at", nil], ["created_at", "2024-05-08 15:24:29.103917"], ["updated_at", "2024-05-08 15:24:29.103917"]]
+  [1m[36mTRANSACTION (1.0ms)[0m  [1m[36mcommit transaction[0m
+Completed 201 Created in 231ms (Views: 0.1ms | ActiveRecord: 1.5ms | Allocations: 6367)
+
+
+  
+NoMethodError (undefined method `empty?' for #<User id: 5, email: "betanyeli@gmail.com", full_name: "Beta", username: "betanyeli", phone_number: nil, created_at: "2024-05-08 15:24:29.103917000 +0000", updated_at: "2024-05-08 15:24:29.103917000 +0000">):
+  
+activemodel (7.0.8.1) lib/active_model/attribute_methods.rb:450:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:71:in `block in digest_body'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each_chunk'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:127:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:75:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:480:in `each'
+rack (2.2.9) lib/rack/body_proxy.rb:41:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:69:in `digest_body'
+rack (2.2.9) lib/rack/etag.rb:33:in `call'
+rack (2.2.9) lib/rack/conditional_get.rb:40:in `call'
+rack (2.2.9) lib/rack/head.rb:12:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/content_security_policy.rb:36:in `call'
+rack (2.2.9) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.9) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/cookies.rb:704:in `call'
+activerecord (7.0.8.1) lib/active_record/migration.rb:638:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (7.0.8.1) lib/active_support/callbacks.rb:99:in `run_callbacks'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/actionable_exceptions.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/debug_exceptions.rb:28:in `call'
+web-console (4.2.1) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/show_exceptions.rb:29:in `call'
+railties (7.0.8.1) lib/rails/rack/logger.rb:40:in `call_app'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `block in call'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/remote_ip.rb:93:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.9) lib/rack/method_override.rb:24:in `call'
+rack (2.2.9) lib/rack/runtime.rb:22:in `call'
+activesupport (7.0.8.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:61:in `block in call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:26:in `collect_events'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:60:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/static.rb:23:in `call'
+rack (2.2.9) lib/rack/sendfile.rb:110:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/host_authorization.rb:138:in `call'
+railties (7.0.8.1) lib/rails/engine.rb:530:in `call'
+puma (5.6.8) lib/puma/configuration.rb:252:in `call'
+puma (5.6.8) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.8) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.8) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.8) lib/puma/server.rb:443:in `process_client'
+puma (5.6.8) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.0ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/users/sign_up" for ::1 at 2024-05-08 17:27:12 +0200
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/registrations/new.html.erb within layouts/application (Duration: 32.2ms | Allocations: 29044)
+  Rendered layout layouts/application.html.erb (Duration: 39.5ms | Allocations: 48733)
+Completed 200 OK in 55ms (Views: 45.7ms | ActiveRecord: 0.2ms | Allocations: 61652)
+
+
+Started POST "/users" for ::1 at 2024-05-08 17:27:45 +0200
+Processing by Devise::RegistrationsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "user"=>{"email"=>"esperancita@gmail.com", "full_name"=>"Esperancita", "username"=>"esperancita", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists? (0.1ms)[0m  [1m[34mSELECT 1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "esperancita@gmail.com"], ["LIMIT", 1]]
+  [1m[36mUser Create (0.2ms)[0m  [1m[32mINSERT INTO "users" ("email", "encrypted_password", "full_name", "username", "phone_number", "reset_password_token", "reset_password_sent_at", "remember_created_at", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["email", "esperancita@gmail.com"], ["encrypted_password", "[FILTERED]"], ["full_name", "Esperancita"], ["username", "esperancita"], ["phone_number", nil], ["reset_password_token", "[FILTERED]"], ["reset_password_sent_at", "[FILTERED]"], ["remember_created_at", nil], ["created_at", "2024-05-08 15:27:45.586599"], ["updated_at", "2024-05-08 15:27:45.586599"]]
+  [1m[36mTRANSACTION (0.8ms)[0m  [1m[36mcommit transaction[0m
+Completed 201 Created in 224ms (Views: 0.1ms | ActiveRecord: 1.2ms | Allocations: 10905)
+
+
+  
+NoMethodError (undefined method `empty?' for #<User id: 6, email: "esperancita@gmail.com", full_name: "Esperancita", username: "esperancita", phone_number: nil, created_at: "2024-05-08 15:27:45.586599000 +0000", updated_at: "2024-05-08 15:27:45.586599000 +0000">):
+  
+activemodel (7.0.8.1) lib/active_model/attribute_methods.rb:450:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:71:in `block in digest_body'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:145:in `each_chunk'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:127:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:75:in `each'
+actionpack (7.0.8.1) lib/action_dispatch/http/response.rb:480:in `each'
+rack (2.2.9) lib/rack/body_proxy.rb:41:in `method_missing'
+rack (2.2.9) lib/rack/etag.rb:69:in `digest_body'
+rack (2.2.9) lib/rack/etag.rb:33:in `call'
+rack (2.2.9) lib/rack/conditional_get.rb:40:in `call'
+rack (2.2.9) lib/rack/head.rb:12:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/http/content_security_policy.rb:36:in `call'
+rack (2.2.9) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.9) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/cookies.rb:704:in `call'
+activerecord (7.0.8.1) lib/active_record/migration.rb:638:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (7.0.8.1) lib/active_support/callbacks.rb:99:in `run_callbacks'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/actionable_exceptions.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/debug_exceptions.rb:28:in `call'
+web-console (4.2.1) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/show_exceptions.rb:29:in `call'
+railties (7.0.8.1) lib/rails/rack/logger.rb:40:in `call_app'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `block in call'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (7.0.8.1) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (7.0.8.1) lib/rails/rack/logger.rb:25:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/remote_ip.rb:93:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.9) lib/rack/method_override.rb:24:in `call'
+rack (2.2.9) lib/rack/runtime.rb:22:in `call'
+activesupport (7.0.8.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:61:in `block in call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:26:in `collect_events'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/server_timing.rb:60:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/static.rb:23:in `call'
+rack (2.2.9) lib/rack/sendfile.rb:110:in `call'
+actionpack (7.0.8.1) lib/action_dispatch/middleware/host_authorization.rb:138:in `call'
+railties (7.0.8.1) lib/rails/engine.rb:530:in `call'
+puma (5.6.8) lib/puma/configuration.rb:252:in `call'
+puma (5.6.8) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.8) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.8) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.8) lib/puma/server.rb:443:in `process_client'
+puma (5.6.8) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/users/sign_up" for ::1 at 2024-05-08 17:36:47 +0200
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/registrations/new.html.erb within layouts/application (Duration: 32.7ms | Allocations: 29310)
+  Rendered layout layouts/application.html.erb (Duration: 41.1ms | Allocations: 48903)
+Completed 200 OK in 58ms (Views: 48.1ms | ActiveRecord: 0.3ms | Allocations: 62249)
+
+
+Started GET "/" for ::1 at 2024-05-08 17:36:49 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.5ms | Allocations: 481)
+  Rendered layout layouts/application.html.erb (Duration: 9.9ms | Allocations: 5923)
+Completed 200 OK in 13ms (Views: 11.8ms | ActiveRecord: 0.0ms | Allocations: 6813)
+
+
